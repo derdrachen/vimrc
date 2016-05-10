@@ -1,10 +1,8 @@
  """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
- " Maintainer: 
+ " Source: 
  "       Amir Salihefendic
  "       http://amix.dk - amix@amix.dk
  "
- " Version: 
- "       5.0 - 29/05/12 14:43:36
  "
  " Blog_post: 
  "       http://amix.dk/blog/post/19691#The-ultimate-Vim-configuration-on-Github
